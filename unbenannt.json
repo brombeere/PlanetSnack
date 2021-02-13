@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":100,
  "infinite":false,
  "layers":[
@@ -89,7 +96,7 @@
         {
          "columns":77,
          "firstgid":1,
-         "image":"kueste\/https___af-oio_maps_at_rc3_world__background.png",
+         "image":"https___af-oio_maps_at_rc3_world__background.png",
          "imageheight":2112,
          "imagewidth":2464,
          "margin":0,
@@ -102,7 +109,7 @@
         {
          "columns":2,
          "firstgid":5083,
-         "image":"kueste\/https___af-oio_maps_at_rc3_world__zelt_4x4.png",
+         "image":"https___af-oio_maps_at_rc3_world__zelt_4x4.png",
          "imageheight":64,
          "imagewidth":64,
          "margin":0,
